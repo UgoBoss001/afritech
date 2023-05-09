@@ -1,0 +1,5 @@
+html{font-size: 22px;}
+    body{background-color: rgb(240, 255, 252); color:black; text-decoration: wavy; background-image: -moz-linear-gradient();}
+    a{color:blue(253, 240, 255);}
+    a:visited {color:aqua(211, 211, 211);}
+    a:hover a:active{color:rgb(0, 255, 213) ;}
